@@ -41,5 +41,4 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
    
  ---
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
