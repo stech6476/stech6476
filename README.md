@@ -10,7 +10,7 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
 
 ---
 
-- 🔭 I’m currently taking small steps studying programming to master computer science. Eventually will bring high proficiency and aptitude in writing code to the company table. 
+- 🔭 I’m currently taking small steps studying programming to master computer science. Eventually hoping I will bring high proficiency and aptitude in writing code to the company table. 
 - 🌱 I’m currently reviewing a C# textbook.
 - 👯 I’m looking to collaborate on C#, C++, PHP.
 - 🤔 I’m pursuing/looking for help in an entry level programming position with 0 experience.
