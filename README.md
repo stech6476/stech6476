@@ -14,7 +14,6 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
 - 🌱 I’m currently reviewing a C# textbook.
 - 👯 I’m looking to collaborate on C#, C++, PHP.
 - 🤔 I’m pursuing/looking for help in an entry level programming position with 0 experience.
-- 💬 Ask me about journalism
 - 📫 How to reach me: abuneappen@gmail.com
 - ⚡ Fun fact: I read The Inheritance Cycle, Redwall, Hardy Boys, Mortal Engines, Sherlock Holmes, Voyages Extraordinaires etc.
 
