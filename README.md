@@ -28,14 +28,15 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOD. I
 ### Last Textbooks I Have Read
 
 <ul>
-  <li><a href="https://github.com/pdeitel/CSharp6FP">C# 6 for Programmers (2017)</a> by Dietel & Dietel
-  <li>C++ Programming From Problem Analysis To Program Design (2015) by Malik
-  <li><a href="https://github.com/pisan343/carrano7e">Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017)</a> by Carrano & Henry
-  <li><a href="https://github.com/wesm/pydata-book">Python for Data Analysis (2018)</a> by McKinney
-  <li> <a href="https://github.com/LarryUllman/phpmysqlvqp-5ed">PHP and MySQL for Dynamic Web Sites (2018)</a> by Ullman
-  <li>Version Control with Git: Powerful tools and techniques for collaborative software development (2012) by Loeliger & McCullough
-  <li><a href="https://github.com/stech6476/GitHubForDummiesReaders">GitHub For Dummies (2019)</a> by Guthals & Haack
-  <li><a href="https://github.com/spbooks/phpmysql6">PHP & MySQL: Novice to Ninja (2017)</a> by Butler & Yank
+    <li><a href="https://github.com/stech6476/GitHubForDummiesReaders">GitHub For Dummies (2019)</a> by Guthals & Haack
+    <li>Version Control with Git: Powerful tools and techniques for collaborative software development (2012) by Loeliger & McCullough
+    <li><a href="https://github.com/wesm/pydata-book">Python for Data Analysis (2018)</a> by McKinney
+    <li>Sams Teach Yourself HTML, CSS, and JavaScript All in One (2011) by Meloni
+    <li><a href="https://github.com/spbooks/phpmysql6">PHP & MySQL: Novice to Ninja (2017)</a> by Butler & Yank
+    <li> <a href="https://github.com/LarryUllman/phpmysqlvqp-5ed">PHP and MySQL for Dynamic Web Sites (2018)</a> by Ullman
+    <li><a href="https://github.com/pdeitel/CSharp6FP">C# 6 for Programmers (2017)</a> by Dietel & Dietel
+    <li><a href="https://github.com/pisan343/carrano7e">Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017)</a> by Carrano & Henry
+    <li>C++ Programming From Problem Analysis To Program Design (2015) by Malik
  <ul>
    
  ---
