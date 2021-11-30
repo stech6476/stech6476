@@ -10,7 +10,7 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
 
 ---
 
-- 🔭 I’m currently taking small baby steps, studying programming to mastering computer science. Eventually will bring high proficiency and aptitude in writing code to the company table. 
+- 🔭 I’m currently taking small steps studying programming to master computer science. Eventually will bring high proficiency and aptitude in writing code to the company table. 
 - 🌱 I’m currently reviewing a C# textbook.
 - 👯 I’m looking to collaborate on C#, C++, PHP.
 - 🤔 I’m pursuing/looking for help in an entry level programming position with 0 experience.
@@ -22,7 +22,7 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
 🧰 
 ### Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="GitHub Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="GitHub Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/autocad-2016-icon.svg" alt="AutoCAD Logo" width="50" height="50"/>
 
 --- 
 
@@ -38,3 +38,8 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
   <li><a href="https://github.com/stech6476/GitHubForDummiesReaders">GitHub For Dummies (2019)</a> by Guthals & Haack
   <li><a href="https://github.com/spbooks/phpmysql6">PHP & MySQL: Novice to Ninja (2017)</a> by Butler & Yank
  <ul>
+   
+ ---
+   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
