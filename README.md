@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I majored in Computer Science holding a degree from CUNY. I specialize in OOP languages. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation. 
+I majored in Computer Science holding a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation. 
 
 ---
 
@@ -15,13 +15,13 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOP la
 - 👯 I’m looking to collaborate on C#, C++, PHP.
 - 🤔 I’m pursuing/looking for help in an entry level programming position with 0 experience.
 - 📫 How to reach me: abuneappen@gmail.com
-- ⚡ Fun fact: I read The Inheritance Cycle, Redwall, Hardy Boys, Mortal Engines, Sherlock Holmes, Voyages Extraordinaires etc.
+- ⚡ Fun fact: I read some book series like The Inheritance Cycle, Sherlock Holmes, Redwall, Hardy Boys, Mortal Engines etc.
 
 ---
 🧰 
 ### Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="GitHub Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/autocad-2016-icon.svg" alt="AutoCAD Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="GitHub Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office Logo" width="50" height="50"/> 
 
 --- 
 
