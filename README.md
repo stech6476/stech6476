@@ -15,6 +15,7 @@ Here are some ideas to get you started:
   "firstName": "Abun",
   "lastName": "Eappen"
   "residence": 🇺🇸, NYC
+  "class": 2020
 }
 ```
 </details>
