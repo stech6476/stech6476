@@ -5,13 +5,21 @@
 
 Here are some ideas to get you started:
 --> 
+
+<details>
+<summary>About Me</summary>
+<br>
+
 ```json
 {
   "firstName": "Abun",
   "lastName": "Eappen"
+  "residence": 🇺🇸, NYC
 }
 ```
-I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation. 
+</details>
+
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation in 🇺🇸. 
 
 ---
 
@@ -27,7 +35,8 @@ I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD.
 🧰 
 ### Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="GitHub Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) :octocat: <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office Logo" width="50" height="50"/> ![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 _________________
 
