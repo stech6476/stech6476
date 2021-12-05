@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I majored in Computer Science holding a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation. 
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation. 
 
 ---
 
@@ -25,7 +25,7 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOD. I
 
 --- 
 
-### Last Textbooks I Have Read
+### Last Programming Textbooks I Have Read
 
 <ul>
     <li><a href="https://github.com/stech6476/GitHubForDummiesReaders">GitHub For Dummies (2019)</a> by Guthals & Haack
@@ -37,8 +37,9 @@ I majored in Computer Science holding a degree from CUNY. I specialize in OOD. I
     <li><a href="https://github.com/pdeitel/CSharp6FP">C# 6 for Programmers (2017)</a> by Dietel & Dietel
     <li><a href="https://github.com/pisan343/carrano7e">Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017)</a> by Carrano & Henry
     <li>C++ Programming From Problem Analysis To Program Design (2015) by Malik
+    <li>P.S., this list does not include the Verilog/Assembly/Bio textbooks etc 😁 
  <ul>
-   
+        
  ---
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
