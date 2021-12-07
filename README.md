@@ -29,7 +29,7 @@ I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD.
     > Eventually hoping I will bring high proficiency and aptitude in writing code to the company table. 
 - 🌱 I’m currently reviewing a C# textbook.
 - 👯 I’m looking to collaborate on `C#, C++, PHP`.
-- 🤔 I’m pursuing/looking for help in an entry level programming position with 0 experience.
+- 🤔 I’m pursuing entry level programming position.
 - 📫 How to reach me: abuneappen@gmail.com
 - ⚡ Fun fact: I read some book series like The Inheritance Cycle, Sherlock Holmes, Redwall, Hardy Boys, Mortal Engines etc.
 
