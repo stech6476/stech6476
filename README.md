@@ -21,23 +21,22 @@ Here are some ideas to get you started:
 ```
 </details>
 
-I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below and is actively pursuing an entry level programming occupation in 🇺🇸. 
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently doing an NYC department internship in 🇺🇸. 
 
 ---
 
 - 🔭 I’m currently taking small steps studying programming to master computer science.
-    > Eventually hoping I will bring high proficiency and aptitude in writing code to the company table. 
 - 🌱 I’m currently reviewing a C# textbook.
 - 👯 I’m looking to collaborate on `C#, C++, PHP`.
-- 🤔 I’m pursuing entry level programming position.
+- 🤔 
 - 📫 How to reach me: abuneappen@gmail.com
-- ⚡ Fun fact: I read some book series like The Inheritance Cycle, Sherlock Holmes, Redwall, Hardy Boys, Mortal Engines etc.
+- ⚡ Fun fact: I read some book series like Sherlock Holmes.
 
 ***
 🧰 
 ### Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) :octocat: <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office Logo" width="50" height="50"/> ![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) :octocat: <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/> 
 
 
 _________________
@@ -55,7 +54,7 @@ _________________
 + [Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017)](https://github.com/pisan343/carrano7e) by Carrano & Henry
 + C++ Programming From Problem Analysis To Program Design (2015) by Malik 
 
-[^note]: ***P.S.***, this list does not include the Verilog/Assembly/Bio textbooks etc 😁
+[^note]: ***Note***
  ---
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
