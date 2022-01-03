@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 }
 ```
  
-I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️
 
 ---
 - 🔭 I’m currently taking small steps studying programming to master computer science.  <a href="https://isocpp.org/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="30" height="30"/> </a>                  
