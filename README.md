@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 }
 ```
  
-I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️
 
 ---
 - 🔭 I’m currently taking small steps studying programming to master computer science.  <a href="https://isocpp.org/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="30" height="30"/> </a>                  
@@ -37,8 +37,6 @@ I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD.
 + [C# 6 for Programmers (2017)](https://github.com/pdeitel/CSharp6FP) by Dietel & Dietel
 + Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017) by Carrano & Henry
 + C++ Programming From Problem Analysis To Program Design (2015) by Malik 
-
-[^note]: ***Note***
  ---
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stech6476&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
