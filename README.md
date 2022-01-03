@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️
 
 ---
-- 🔭 I’m currently taking small steps studying programming to master computer science.  <a href="https://isocpp.org/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="30" height="30"/> </a>                  
+- 🔭 I’m currently taking small steps studying programming to master computer science.  <a href="https://isocpp.org/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="40" height="40"/> </a>                  
 - 🌱 I’m currently reviewing a C# textbook.  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img align = "right" img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="40" height="40"/> </a> 
 - 👯 I’m looking to collaborate on `C#, C++, PHP`.  <a href="https://www.php.net/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="40" height="40"/> </a>
 - 🤔 Is there Basefield Flag Mode in C# like C++? <a href="https://html.spec.whatwg.org/multipage/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/> </a>
