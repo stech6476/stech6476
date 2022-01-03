@@ -25,7 +25,7 @@ I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD.
 - 📫 How to reach me: abuneappen@gmail.com  Open for Hire: Full-Stack Developer <a href="https://www.w3schools.com/css/"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> </a>
 - ⚡ Fun fact: I read some book series like Sherlock Holmes. <a href="https://git-scm.com/doc"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="40" height="40"/> </a> <a href="https://dev.mysql.com/doc/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="40" height="40"/> </a>
  
-### Last Programming Textbooks I Have Read[^note]
+### Last Programming Textbooks I Have Read
 
 + GitHub For Dummies (2019) by Guthals & Haack  
 + Version Control with Git: Powerful tools and techniques for collaborative software development (2012) by Loeliger & McCullough
