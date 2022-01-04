@@ -22,7 +22,7 @@ I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD.
 - 🌱 I’m currently reviewing a C# textbook.  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img align = "right" img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="40" height="40"/> </a> 
 - 👯 I’m looking to collaborate on `C#, C++, PHP`. <a href="https://www.php.net/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="40" height="40"/> </a>
 - 🤔 Is there Basefield Flag Mode in C# like C++? <a href="https://html.spec.whatwg.org/multipage/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/> </a>
-- 📫  Open to Hire: Full-Stack Developer/Code Review/Entry-Level - How to reach me: abuneappen@gmail.com <a href="https://www.w3schools.com/css/"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> </a>
+- 📫  Open to Hire: Full-Stack Developer/Code Review - How to reach me: abuneappen@gmail.com <a href="https://www.w3schools.com/css/"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> </a>
 - ⚡ Fun fact: I read some book series like Sherlock Holmes. <a href="https://git-scm.com/doc"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="40" height="40"/> </a> <a href="https://dev.mysql.com/doc/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="40" height="40"/> </a>
  
 ### Last Programming Textbooks I Have Read
