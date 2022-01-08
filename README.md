@@ -14,6 +14,7 @@ Here are some ideas to get you started:
   "WPM": "55"
 }
 ```
+
 I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸. 
 I am open to hire: Entry-Level Full-Stack Developer/Code Review ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️⬇️
 
@@ -24,6 +25,8 @@ I am open to hire: Entry-Level Full-Stack Developer/Code Review ~~~~~~~~~~~~~~~~
 - 🤔 Is there Basefield Flag Mode in C# like C++? <a href="https://html.spec.whatwg.org/multipage/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/> </a>
 - 📫  How to reach me: abuneappen@gmail.com <a href="https://www.w3schools.com/css/"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> </a>
 - ⚡ Fun fact: I read some book series like Sherlock Holmes. <a href="https://git-scm.com/doc"> <img  align = "right" src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="40" height="40"/> </a> <a href="https://dev.mysql.com/doc/"> <img align = "right" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="40" height="40"/> </a>
+- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stech6476&show_owner=true&repo=CPlusPlus-vs.-CSharp-vs.-PHP-Review-Guide)](https://github.com/stech6476/CPlusPlus-vs.-CSharp-vs.-PHP-Review-Guide) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stech6476&show_owner=true&repo=Algebraic-Calculator)](https://github.com/stech6476/Algebraic-Calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stech6476&show_owner=true&repo=Blue-Ocean)](https://github.com/stech6476/Blue-Ocean) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stech6476&show_owner=true&repo=COVID-19-Mortality-Data-Mining-2019-2020-)](https://github.com/stech6476/COVID-19-Mortality-Data-Mining-2019-2020-) 
  
 ### Last Programming Textbooks I Have Read
 
