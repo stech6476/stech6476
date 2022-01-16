@@ -32,15 +32,15 @@ I am open to hire: Entry-Level Full-Stack Developer/Code Review ~~~~~~~~~~~~~~~~
   
 ### Last Programming Textbooks I Have Read
 
-+ GitHub For Dummies (2019) by Guthals & Haack  
-+ Version Control with Git: Powerful tools and techniques for collaborative software development (2012) by Loeliger & McCullough
++ GitHub For Dummies (2019) by Guthals, Haack  
++ Version Control with Git: Powerful tools and techniques for collaborative software development (2012) by Loeliger, McCullough
 + [Python for Data Analysis (2018)](https://github.com/wesm/pydata-book) by McKinney
 + PHP
-> - [PHP & MySQL: Novice to Ninja (2017)](https://github.com/spbooks/phpmysql6) by Butler & Yank
+> - [PHP & MySQL: Novice to Ninja (2017)](https://github.com/spbooks/phpmysql6) by Butler, Yank
 > - [PHP and MySQL for Dynamic Web Sites (2018)](https://github.com/LarryUllman/phpmysqlvqp-5ed) by Ullman
 >> + Sams Teach Yourself HTML, CSS, and JavaScript All in One (2011) by Meloni
-+ [C# 6 for Programmers (2017)](https://github.com/pdeitel/CSharp6FP) by Dietel & Dietel
-+ Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017) by Carrano & Henry
++ [C# 6 for Programmers (2017)](https://github.com/pdeitel/CSharp6FP) by Dietel, Dietel
++ Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017) by Carrano, Henry
 + C++ Programming From Problem Analysis To Program Design (2015) by Malik 
  ---
  
