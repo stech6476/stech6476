@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 }
 ```
 
-I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I am currently enrolled in a NYC department internship in 🇺🇸. 
+I majored in Computer Science. I earned a degree from CUNY. I specialize in OOD. I have a wide skillset language portfolio listed below. I filled out NYC internship application in 🇺🇸. 
 I am open to hire: Entry-Level Full-Stack Developer/Code Review ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **TECH STACK** ⬇️⬇️
 
 ---
