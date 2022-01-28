@@ -38,7 +38,7 @@ I majored in Computer Science in 🇺🇸. I earned a degree from CUNY. I specia
 > - [PHP & MySQL: Novice to Ninja (2017)](https://github.com/spbooks/phpmysql6) by Butler, Yank
 > - [PHP and MySQL for Dynamic Web Sites (2018)](https://github.com/LarryUllman/phpmysqlvqp-5ed) by Ullman
 >> + Sams Teach Yourself HTML, CSS, and JavaScript All in One (2011) by Meloni
-+ [C# 6 for Programmers (2017)](https://github.com/pdeitel/CSharp6FP) by Dietel, Dietel
++ [C# 6 for Programmers (2017)](https://github.com/pdeitel/CSharp6FP) by Deitel, Deitel
 + Data Abstraction & Problem Solving with C++, Walls and Mirrors (2017) by Carrano, Henry
 + C++ Programming From Problem Analysis To Program Design (2015) by Malik 
  ---
